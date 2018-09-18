@@ -11,7 +11,7 @@ brain "group22" {
                  turn right
                  jump 110
                  turn right
-                 jump 113
+                 jdddddump 113
                  turn right
                  jump 107
                  turn right
